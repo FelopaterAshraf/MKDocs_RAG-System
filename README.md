@@ -3,6 +3,12 @@
 
 This is a Retrieval-Augmented Generation (RAG) system designed to answer questions about MkDocs documentation.
 It uses Google's Gemini models for text generation and embedding, along with ChromaDB as the vector store.
+<img width="1802" height="537" alt="Screenshot 2025-11-28 095551" src="https://github.com/user-attachments/assets/e78cc398-12e9-4d4e-995c-91eccbb235de" />
+
+
+<img width="1835" height="667" alt="Screenshot 2025-11-28 095603" src="https://github.com/user-attachments/assets/5c98950c-5a91-4299-92c5-f34adcee7cd9" />
+
+<img width="1860" height="337" alt="Screenshot 2025-11-28 095610" src="https://github.com/user-attachments/assets/038e74ee-066a-449d-bd12-6cafa5976915" />
 
 ---
 
